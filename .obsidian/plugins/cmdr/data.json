@@ -1,0 +1,43 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [
+    {
+      "id": "homepage:open-homepage",
+      "icon": "lucide-arrow-up-right-from-square",
+      "name": "Inbox",
+      "mode": "any"
+    }
+  ],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [
+    {
+      "id": "homepage:open-homepage",
+      "icon": "lucide-file-pen",
+      "name": "Inbox",
+      "mode": "any"
+    }
+  ],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

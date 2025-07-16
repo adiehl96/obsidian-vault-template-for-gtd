@@ -1,0 +1,21 @@
+{
+  "pluginList": [
+    "Mara-Li/obsidian-explorer-hider"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "Mara-Li/obsidian-explorer-hider",
+      "version": "1.3.2"
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "personalAccessToken": ""
+}
